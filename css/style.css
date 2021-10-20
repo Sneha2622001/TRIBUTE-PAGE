@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(168, 167, 167);
+    text-align: center;
+}
+p{
+    padding: 0 15%;
+    font-size: 17px;
+
+}
+img{
+    border-radius: 50%;
+    width: 20%;
+}
+    ul.a {
+        text-align: center;
+      list-style-type: circle;
+    }
+
+    h1{
+        padding-top: 10px;
+        font-size:60px;
+    }
+
+    h2{
+        padding-top: 15px;
+        font-size: 33px;
+    }
+
+    h3{
+        padding-top: 10px;
+        font-size:28px;
+    }
+
+    a:hover{
+        color: blue;
+    }
+
+    .read{
+        padding: 35px 0;
+    }
+
+    .written{
+        padding: 30px 8px;
+text-align: left;
+    }
